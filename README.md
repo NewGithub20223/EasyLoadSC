@@ -10,7 +10,6 @@ install this manually
 download the zip file and put the EasyLoad.py to "%localappdata%\Programs\Python\Python311\Lib" (change 311 to your python version)**
 
 
-before we start there is only
 now for examples:
 
 
