@@ -30,5 +30,4 @@ class loadbar:
             stdout.write(i)
             stdout.flush()
             time.sleep(0.5)
-class 
 load = loadbar()
